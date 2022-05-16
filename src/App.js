@@ -3,6 +3,8 @@ import { Canvas } from '@react-three/fiber';
 import Iphone from './Components/Iphone';
 import { OrbitControls } from '@react-three/drei'
 
+//used a bootstrap card to show case iphone and its price
+
 export default function App() {
   return (<div class="card container my-2" style={{ width: '20rem'}}>
     <br />
